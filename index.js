@@ -2,4 +2,4 @@
 import "./style.scss";
 
 // Write Javascript code!
-const accordion = document.querySelector('.de-accordion');
+const accordion = document.querySelector('.accordion');
