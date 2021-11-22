@@ -4,10 +4,11 @@
 
 # DXT Code Exercise
 
-[Accordion Design](https://sketch.cloud/s/ezQk0)
+[Accordion Design Example](https://duke-energy.com/_/media/images/misc/production%20accordion)
 
 ## Guidelines:
-- should display 5 questions that each have an answer
+
+- using HTML, create an accordion with two items
+- using CSS (or SASS), add some styling to the accordion items
+- using JavaScript, toggle item(s) open/closed
 - should toggle the answer when the question is clicked
-- should be accessible and use semantic markup
-- bonus: use BEM methodology
