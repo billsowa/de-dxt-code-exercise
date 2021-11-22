@@ -5,6 +5,7 @@
 # DXT Code Exercise
 
 [Accordion Design Example (closed)](https://duke-energy.com/_/media/images/misc/test-accordion-closed)
+
 [Accordion Design Example (open)](https://duke-energy.com/_/media/images/misc/test-accordion-open)
 
 ## Guidelines:
